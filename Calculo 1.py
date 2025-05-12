@@ -8,6 +8,7 @@ print ('resultado: ', c)
 
 # Cambiando el factor 102 segun requerimientos del negocio
 # Cambiando el factor 110 segun junta de control
+# Cambio a factor 200 por directorio
 
-d = c *110
+d = c *200
 print ('resultado total: ', d)
