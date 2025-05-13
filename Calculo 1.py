@@ -3,10 +3,11 @@
 # Nueva Variable E
 a = 10
 b = 30
-e = 1.2
-# Se cambia el valor de e como prueba para source tree
-c = 30 * 10 * 5/ e
+e = 1.5
+f = 45
+c = 30 * 10 * 5/ e (5*f)
 print ('resultado: ', c)
+# Se cambia el valor de e como prueba para source tree numero 2
 
 # Cambiando el factor 102 segun requerimientos del negocio
 # Cambiando el factor 110 segun junta de control
