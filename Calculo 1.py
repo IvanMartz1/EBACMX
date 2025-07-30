@@ -1,10 +1,10 @@
 # Ejemplo de calculo para Branch
 # Se realizaran duversos cambios sin embargo la primera parte se generar a consideracion del autor
 # Nueva Variable E
-# Se cambia el valor de e = 4.5 y a = 100
-a = 100
+# Se cambia el valor de e = 1.5 y a = 10
+a = 10
 b = 30
-e = 4.5
+e = 1.5
 f = 45
 c = 30 * 10 * 5/ e (5*f)
 print ('resultado: ', c)
