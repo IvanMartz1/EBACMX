@@ -1,6 +1,7 @@
 # Prueba de Python
 # Se añadio la variable "c"
-a = 10
+a = 40
+# Se cambia el valor de a para ejemplo
 b = 30
 c = 30 * 10 * 5
 
