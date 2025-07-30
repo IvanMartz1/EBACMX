@@ -6,7 +6,7 @@ a = 10
 b = 30
 e = 1.5
 f = 45
-c = 30 * 10 * 5/ e (5*f)
+c = 30 * 10 * 5/ (e*5*f)
 print ('resultado: ', c)
 # Se cambia el valor de e como prueba para source tree numero 2
 
