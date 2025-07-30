@@ -1,8 +1,8 @@
 # Ejemplo de calculo para Branch
 # Se realizaran duversos cambios sin embargo la primera parte se generar a consideracion del autor
 # Nueva Variable E
-# Se cambia el valor de e = 4.5
-a = 10
+# Se cambia el valor de e = 4.5 y a = 100
+a = 100
 b = 30
 e = 4.5
 f = 45
